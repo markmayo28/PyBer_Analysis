@@ -19,7 +19,7 @@ The table below reflects the breakdown of ride data by city type.  Below the tab
 
 <img width="656" alt="PyBer_Summary_Table" src="https://user-images.githubusercontent.com/78807451/120079602-a0bdb200-c082-11eb-9edf-5d0e3df9d5de.png">
 
-This data indicates that PyBer is realizing a majority of company revenue from urban environments at about 63% of total revenue. Suburban and rural come in at 30% and 7% respectively.  The average ride per fare increases in the lesser populated areas by about five or six dollars per ride. However, the average fare by driver shows a significant increase from urban to suburban and again from suburban to rural. The increase in average ride fare is likely due to the length of the ride, since the more urban the area, the more likely points of interest are close by. The increase in average driver fare is attributable to the density of drivers. In the rural areas, a driver averaged 1.6 rides across the four-month sample period. Suburban drivers averaged 1.3 rides and urban drivers only 0.67 rides. This shows that the density of drivers is considerably higher in urban areas. Of course, there are many registered drivers who are not actively taken rides at any given time. In the urban environment, there are
+This data indicates that PyBer is realizing a majority of company revenue from urban environments at about 63% of total revenue. Suburban and rural come in at 30% and 7% respectively.  The average ride per fare increases in the lesser populated areas by about five or six dollars per ride. However, the average fare by driver shows a significant increase from urban to suburban and again from suburban to rural. The increase in average ride fare is likely due to the length of the ride, since the more urban the area, the more likely points of interest are close by. The increase in average driver fare is attributable to the density of drivers. In the rural areas, a driver averaged 1.6 rides across the four-month sample period. Suburban drivers averaged 1.3 rides and urban drivers only 0.67 rides. This shows that the density of drivers is considerably higher in urban areas. Of course, there are many registered drivers who are not actively taken rides at any given time. In the urban environment, there are at least 780 drivers that took no rides in this four-month period. This has the potential to seriously skew the data.
 
 ## Market Data by City Type Over Time
 
@@ -31,4 +31,9 @@ This chart illustrates PyBer rideshare data over time and compares the three typ
 
 Based on the analysis given, the following recommendations can be made to make market corrections across the three types of environments.
 
-1. Continue to fo
+Based on the analysis given, the following recommendations can be made to make market corrections across the three types of environments.
+
+1.	Continue to focus the main effort of the business in urban environments. This is clearly where most of the revenue will come.
+2.	In order to get a better picture of driver performance, look at how to remove inactive drivers from the data. One way to do this would be to exclude drivers that have not taken a ride in the last 30 days.
+3.	Encourage drivers in the urban environment to venture into the suburban and rural areas. This will alleviate any shortages and allow the drivers to collect potentially more income.
+
